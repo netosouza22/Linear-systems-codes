@@ -19,6 +19,8 @@ ylabel('Amplitude')
 title('Gráfico do sinal')
 grid on
 
+![Descrição da imagem](./start_signal.png)
+
 figure
 indices_vector = -40:40;  % Vetor de índices
 
