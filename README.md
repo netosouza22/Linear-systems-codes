@@ -21,7 +21,7 @@ Gere o gráfico desta resposta ao impulso [sin, figure,stem].
 % 3-) Filtre o sinal de questão 1 usando a resposta ao impulso gerada na questão 2. Gere o
 % gráfico deste sinal filtrado [conv,figure,plot].
 
-![Descrição da imagem](./inpulse_response.png)
+![Descrição da imagem](./convolução.png)
 
 %4-) O que é observado na questão 3?
 
